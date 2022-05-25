@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio files
+.vs
+*.sln
+*.vcxproj*
+x64
+
+# CLion files
+/cmake-build-debug/
+.idea
